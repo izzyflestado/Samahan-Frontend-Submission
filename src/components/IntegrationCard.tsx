@@ -14,7 +14,7 @@ export function IntegrationCard({ integration }: { integration: Integration }) {
       </div>
 
       <div className="relative h-[128.391px] border-t border-border-c px-6 py-5">
-        <div className="max-w-[calc(100%-44px)]">
+        <div className="max-w-[calc(100%-46px)]">
           <p className="text-sm text-[#8A8F98]">{name}</p>
           <p className="mt-1 line-clamp-2 text-[17px] font-[510] leading-[1.4] text-[#F7F8F8]">
             {description}
