@@ -13,12 +13,13 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser. Naviga
 
 ## Tested on
 
-Lorem ipsum
+Rather than testing fixed viewport dimensions, the application was tested by continuously resizing the browser window to ensure responsive layouts across desktop, tablet, and mobile-sized viewports.
 
 ## Known issues / unfinished
 
 - Some parts are not specifically exact (not pixel perfect).
 - Used placeholders on the icons and images on integrations page.
+- Integrations page is not so accurate since will be allocating time for the other parts.
 
 
 ## AI usage
@@ -34,4 +35,5 @@ I reviewed and tested all layout/styling changes myself against the reference si
 
 ## Deployment
 
-Lorem Ipsum
+Deployed on Vercel. 
+https://samahan-frontend-submission.vercel.app/

@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Essential Integrations – Linear",
+  title: "Essentials Integrations – Linear",
   description:
     "Key integrations to enhance your Linear experience. Connect GitHub, Slack, GitLab, Figma, Intercom, and Google Sheets.",
 };
